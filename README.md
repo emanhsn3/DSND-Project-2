@@ -1,5 +1,5 @@
 # ETL-ML-Pipelines
-This repo contains the submission of DSND Data Engineering project (Tested on Ubuntu 16.04 LTS and Python 3.x)
+This repo contains the submission of DSND Data Engineering project 
 
 ## Getting Started
 This project is a deployment for the ETL (**E**xtract - **T**ransform - **L**oad) pipeline that looks like:
