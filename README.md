@@ -1,4 +1,4 @@
-# ETL-ML-Pipelines
+# Disaster Response Pipelines
 This repo contains the submission of DSND Data Engineering project 
 
 ## Getting Started
